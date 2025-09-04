@@ -6,7 +6,7 @@ const route = useRoute()
 const items = [
   { name: 'Inicio', to: '/' },
   { name: 'Tickets', to: '/tickets' },
-  { name: 'Configuración', to: '/settings' },
+  { name: 'Creación de tickets', to: '/create' },
 ]
 
 const isActive = (to) => computed(() => route.path === to)

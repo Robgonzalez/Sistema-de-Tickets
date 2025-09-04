@@ -1,10 +1,11 @@
 <script setup>
+import TablaTickets from '../components/ticket/TablaTickets.vue'
 </script>
 
 <template>
   <section>
     <h1>Tickets</h1>
-    <p>Aquí irá la lista de tickets (placeholder).</p>
+    <TablaTickets />
   </section>
 </template>
 

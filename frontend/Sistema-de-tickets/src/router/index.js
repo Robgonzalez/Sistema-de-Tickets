@@ -15,9 +15,9 @@ const router = createRouter({
       component: () => import('../views/TicketsView.vue'),
     },
     {
-      path: '/settings',
-      name: 'settings',
-      component: () => import('../views/SettingsView.vue'),
+      path: '/create',
+      name: 'create',
+      component: () => import('../views/CreateTicketView.vue'),
     },
   ],
 })
