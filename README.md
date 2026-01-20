@@ -2,6 +2,9 @@
 
 Este proyecto es una plataforma full-stack para la gestión y seguimiento de tickets de soporte técnico, diseñada para centralizar incidencias, monitorear el rendimiento de los agentes y optimizar los tiempos de respuesta.
 
+<img width="1861" height="1086" alt="image" src="https://github.com/user-attachments/assets/c2d62191-db03-49d6-97c4-247ddae2640b" />
+
+
 > [!IMPORTANT]
 > Este repositorio forma parte de mi portafolio profesional y demuestra mis capacidades para construir herramientas corporativas enfocadas en la eficiencia operativa y la resolución de incidencias.
 
